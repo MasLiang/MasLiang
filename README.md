@@ -1,0 +1,4 @@
+- 👋 Hi, I’m MasLiang
+- 👀 I’m interested in FPGA / IC design / Deep Learning / Quantum Computing
+- 🌱 I’m currently learning IC design and Quantum Computing
+- 📫 How to reach me jiawei.liang0303@gmail.com
