@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MasLiang
 - 👀 I’m interested in FPGA / IC design / Deep Learning / Quantum Computing
 - 🌱 I’m currently a PhD student at the Department of Electronic & Computer Engineering in HKUST. 
-- 📫 If there is any question, welcome to send email to me: jiawei.liang0303@gmail.com 
+- 📫 If there is any question, welcome to send email to me: jliangbr@connect.ust.hk
